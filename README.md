@@ -5,9 +5,6 @@
 ## Overview
 This project is part of my Mechanical Engineering studies at Çukurova University, analyzing supersonic flow over a bullet to compute drag coefficient (Cd) and drag forces. It combines computational fluid dynamics (CFD) simulations using ANSYS Fluent with analytical calculations in MATLAB, validating theoretical models against industry-standard numerical results. The project was conducted in 2025 to study shock wave formation and aerodynamic performance at Mach 1.5 and Mach 2.
 
-## Objective
-To model supersonic flow around a bullet, calculate Cd and drag forces using MATLAB, and validate these with Fluent CFD simulations, comparing analytical and numerical approaches for accuracy.
-
 ## Methodology
 - **Geometry**: 2D bullet model (8 mm length, 2 mm diameter) due to ANSYS Student version limitations.
 - **CFD Simulations**:
